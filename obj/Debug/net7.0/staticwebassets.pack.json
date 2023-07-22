@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/home/migue/Proyectos .net y react/Proyectos .net/SignalRWebpack/wwwroot/css/main.84570123722e34abe6d6.css",
+      "PackagePath": "staticwebassets/css/main.84570123722e34abe6d6.css"
+    },
+    {
+      "Id": "/home/migue/Proyectos .net y react/Proyectos .net/SignalRWebpack/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/migue/Proyectos .net y react/Proyectos .net/SignalRWebpack/wwwroot/main.84570123722e34abe6d6.js",
+      "PackagePath": "staticwebassets/main.84570123722e34abe6d6.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.SignalRWebpack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.SignalRWebpack.props",
+      "PackagePath": "build\\SignalRWebpack.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SignalRWebpack.props",
+      "PackagePath": "buildMultiTargeting\\SignalRWebpack.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SignalRWebpack.props",
+      "PackagePath": "buildTransitive\\SignalRWebpack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

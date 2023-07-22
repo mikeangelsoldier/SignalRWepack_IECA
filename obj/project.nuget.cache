@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xd3jEYyxLgQNRulJn1kwunKA7zrvFylvb1CyNFbpuOgDD9tLF4RwtGz4DhzposiikGjwZRE1n+UsDye3TX55aA==",
+  "success": true,
+  "projectFilePath": "/home/migue/Proyectos .net y react/Proyectos .net/SignalRWebpack/SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "/home/migue/.nuget/packages/microsoft.typescript.msbuild/5.1.5/microsoft.typescript.msbuild.5.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
